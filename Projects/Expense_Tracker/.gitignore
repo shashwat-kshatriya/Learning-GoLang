@@ -1,0 +1,14 @@
+# Runtime data
+data/expenses.json
+data/expenses.json.tmp
+
+# Go build artifacts
+expense-tracker
+*.exe
+*.test
+*.out
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
